@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/main/Main.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/database/DatabaseConnection.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/database/DatabaseInitializer.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/models/BarangATK.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/models/Kertas.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/models/Spidol.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/models/TintaPrinter.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/models/Pulpen.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/models/Anggota.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/models/AdminGA.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/dao/BarangDAO.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/dao/UserDAO.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/gui/LoginForm.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/utils/ValidationUtils.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/gui/AdminDashboard.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/gui/ManajemenBarangForm.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/gui/LoginJFrameForm.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/gui/ManajemenBarangJFrameForm.java</file>
+            <file>file:/C:/Users/HP%20VICTUS/Documents/NetBeansProjects/ATKManagementSystem/src/gui/AdminDashboardJFrameForm.java</file>
+        </group>
+    </open-files>
+</project-private>
