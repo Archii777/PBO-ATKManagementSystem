@@ -206,7 +206,7 @@ CREATE TABLE barang (
 * GUI: Selesai
 * CRUD Barang: Berfungsi
 * Database: Terintegrasi
-* Siap Demo Sidang / Presentasi
+
 
 ---
 
