@@ -193,7 +193,7 @@ CREATE TABLE barang (
 
 ## Keunggulan Sistem
 
-* GUI siap demo sidang
+* GUI siap demo 
 * Clean architecture (DAO Pattern)
 * Tidak menggunakan ResultSet langsung di GUI
 * Error handling database
