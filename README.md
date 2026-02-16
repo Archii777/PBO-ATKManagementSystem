@@ -12,16 +12,17 @@ Deskripsi :
 Buku ini membahas secara sistematis proses perancangan, analisis, implementasi, hingga pengujian aplikasi desktop manajemen inventaris ATK. Materi disusun berdasarkan studi kasus nyata pengelolaan barang habis pakai di lingkungan organisasi yang sebelumnya masih dilakukan secara manual.
 
 Isi buku mencakup:
-*Konsep Sistem Informasi dan Inventory System
-*Perancangan UML (Use Case, Activity Diagram, Class Diagram)
-*Perancangan Database (ERD & Struktur Tabel)
-*Implementasi Java Swing + JDBC + MariaDB
-*Penerapan OOP dan DAO Pattern
-*Implementasi CRUD (Create, Read, Update, Delete)
-*Pengujian Sistem (Black Box Testing)
-*Evaluasi dan Pengembangan Sistem
+* Konsep Sistem Informasi dan Inventory System
+* Perancangan UML (Use Case, Activity Diagram, Class Diagram)
+* Perancangan Database (ERD & Struktur Tabel)
+* Implementasi Java Swing + JDBC + MariaDB
+* Penerapan OOP dan DAO Pattern
+* Implementasi CRUD (Create, Read, Update, Delete)
+* Pengujian Sistem (Black Box Testing)
+* Evaluasi dan Pengembangan Sistem
 
 Link Ebook : https://ebook.webiot.id/ebooks/atk-management-system
+
 Catatan: Ebook ini disusun sebagai laporan akademik sekaligus referensi pengembangan aplikasi desktop berbasis Java untuk manajemen inventaris.
 ---
 ## Fitur Utama
